@@ -1,0 +1,14 @@
+{
+  "firstNameValid": "Ahmed",
+  "firstNameInValid": "55",
+  "lastNameValid": "Saad",
+  "lastNameInValid": "55",
+  "emailValid": "random",
+  "emailRepeated": "ahmedshanb10o@gmail.com",
+  "emailInValid": "Ahmed11",
+  "telephoneValid": "011270918",
+  "telephoneInValid": "ggf",
+  "PasswordValid": "12345",
+  "PasswordConfirmValid": "12345",
+  "PasswordConfirmInValid": "123456"
+}
